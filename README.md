@@ -5,7 +5,7 @@
 from fleiss import fleissKappa
 
 INPUT 
-rate - ratings matrix containing number of ratings for each subject per category [size - *N* X *k* where *N* = #subjects and *k* = #categories]
+rate - ratings matrix containing number of ratings for each subject per category [size- N X k where N = #subjects and k = #categories]
 n - number of raters   
  
 OUTPUT 
