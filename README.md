@@ -10,6 +10,4 @@ rate - ratings matrix containing number of ratings for each subject per category
 
 n - number of raters   
 
-kappa - float [-1,1]
-
 Refer *example_kappa.py* for example implementation
